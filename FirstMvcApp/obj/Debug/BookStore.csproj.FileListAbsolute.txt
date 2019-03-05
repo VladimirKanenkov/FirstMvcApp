@@ -1,5 +1,4 @@
 D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
-D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\obj\Debug\BookStore.csprojAssemblyReference.cache
 D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\bin\BookStrore.dll.config
 D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\bin\BookStrore.dll
 D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\bin\BookStrore.pdb
