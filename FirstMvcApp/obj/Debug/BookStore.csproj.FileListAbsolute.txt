@@ -91,3 +91,4 @@ D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\obj\Debug\BookStrore.pdb
 D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\bin\System.Data.SqlLocalDb.dll
 D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\bin\System.Data.SqlLocalDb.xml
 D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+D:\VS_Projects\Web\FirstMvcApp\FirstMvcApp\obj\Debug\BookStore.csprojAssemblyReference.cache
