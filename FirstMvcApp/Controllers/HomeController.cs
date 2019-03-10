@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using BookStore.Models;
+using BookStore.Util;
 
 namespace BookStore.Controllers
 {
@@ -20,6 +21,11 @@ namespace BookStore.Controllers
             ViewBag.Books = books;
             // возвращаем представление
             return View();
+        }
+
+        public ActionResult GetHtml()
+        {
+            return new HtmlResult("<h2>Привет мир!</h2>");
         }
 
         [HttpGet]
