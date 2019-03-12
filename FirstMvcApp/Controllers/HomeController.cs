@@ -22,6 +22,18 @@ namespace BookStore.Controllers
             return View();
         }
 
+        public FileResult GetFile()
+        {
+            // Путь к файлу
+            string file_path = Server.MapPath("~/Files/CD.jpg");
+            // Тип файла - content-type
+            string file_type = "application/jpg";
+            // Имя файла - необязательно
+            string file_name = "CD.jpg";
+            return File(file_path, file_type, file_name);
+        }
+
+
         [HttpGet]
         public ActionResult Buy(int id)
         {
